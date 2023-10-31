@@ -16,3 +16,7 @@ print("gafruits:", afruits)
 
 with open("example.txt", "r+") as fileobject:
     print("test")
+
+airports = {'IAD' : 'Dulles', 'SEA': 'Seattle-Tacoma'}
+
+for abbr, airport in airports(items())
