@@ -7,4 +7,3 @@ for fruit in fruits:
 
 with open("py3basics_2.1/py3basics/DATA/fruit2.txt") as f:
     furits = f.read().splitlines()
-    
